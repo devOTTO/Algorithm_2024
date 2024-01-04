@@ -7,4 +7,4 @@ Personal Solution of Leetcode
 - [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/1480.cpp)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/1672.cpp)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/412.cpp)
-
+- [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/1342.cpp)
