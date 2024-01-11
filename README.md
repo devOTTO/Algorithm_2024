@@ -16,3 +16,4 @@ Personal Solution of Leetcode
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/564.cpp)
 - [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/646.cpp)
 - [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/578.cpp)
+- [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) =  [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/549.cpp)
