@@ -17,3 +17,5 @@ Personal Solution of Leetcode
 - [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/646.cpp)
 - [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/578.cpp)
 - [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) =  [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/549.cpp)
+- [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) =  [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/674.cpp)
+
