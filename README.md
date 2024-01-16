@@ -21,3 +21,4 @@ Personal Solution of Leetcode
 - [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/559.cpp)
 - [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/567.cpp)
 - [Two Sums](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/546.cpp)
+- [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/769.cpp)
